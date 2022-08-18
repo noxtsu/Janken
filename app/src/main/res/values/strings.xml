@@ -2,4 +2,7 @@
     <string name="app_name">Janken</string>
     <string name="janken_text">じゃんけん・・・</string>
     <string name="back_text">もう一度</string>
+    <string name="todo">TODO</string>
+    <string name="choki">choki</string>
+    <string name="pa">TODO</string>
 </resources>
