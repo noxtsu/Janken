@@ -5,4 +5,7 @@
     <string name="todo">TODO</string>
     <string name="choki">choki</string>
     <string name="pa">TODO</string>
+    <string name="result_win">あなたの勝ちです</string>
+    <string name="result_lose">あなたの負けです</string>
+    <string name="result_draw">あいこです</string>
 </resources>
